@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hola Gente
+Mi nombre es <mark>Andrés Tapia Espinoza</mark>   
+Soy desarrollador trainee de **Kotlin** y **Java**  
+Tambien se configurar y controlar *Arduino* y *Esp32*
 
-<!--
-**atapiaop-lgtm/atapiaop-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Actualmente estoy aprendiendo a desarrollar Aplicaciones Básicas en Kotlin en un BootCamp de Talento digital  
 
-Here are some ideas to get you started:
+- 🔭 Estoy Trabajando en una aplicación de Navegación vehicular que calcule **Km/litro de Bencina**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 Estoy Buscando colaborar en proyectos que integren **Aplicaciones Móviles** con **Hardware programable**, <mark>Domotica</mark> como le llaman en el Rubro  
+
+- ✨Se *Crear, Manipular y testear* **Circuitos Electrónicos** ya que estudie **Técnico en Electrónica** por 2 años y trabaje en el rubro especializándome en **Audio**.
+
+- 📫 Puedes contactarme en mi correo: a.tapia.op@gmail.com
